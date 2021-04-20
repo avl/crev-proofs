@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-08-29T12:04:50.512347509+02:00"
+from:
+  id-type: crev
+  id: e65nLtxTDA7CYiW_t2Ap9ADWFvH3SCbOFvMbFv8fonU
+  url: "https://github.com/avl/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Just following the tutorial, adding trust for DPC
+----- SIGN CREV PROOF -----
+0uKa15-Be3nbCOQAUXuHEbHbPRBmh5am3O72gE_JYtNHpzcWEj0zzDjj9L0HSK6gKq8QDohxV8i41hfE1ov-Cw
+----- END CREV PROOF -----
+
