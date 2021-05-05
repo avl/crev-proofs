@@ -91,3 +91,27 @@ comment: |-
 xGcwID2wftOXpXcPC1IzqCy0mMGJgYmS4EMCy3G3D4HuF-HxQ3nbpWyeiobapCy-9C1MSlh6GipcKpEWjk9SAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-05-05T17:07:13.433227373+02:00"
+from:
+  id-type: crev
+  id: e65nLtxTDA7CYiW_t2Ap9ADWFvH3SCbOFvMbFv8fonU
+  url: "https://github.com/avl/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: yansi
+  version: 0.5.0
+  revision: a628eea7fad5a7bfb9ac35f03ad1566d90d92436
+  digest: fwJBzBTfbI1l8X1jG9LOkXesE1TleKAIeB206hTGUHg
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Terminal coloring library. Audited for security. Does use unsafe to interface with Windows OS functions. Nothing suspicious found.
+----- SIGN CREV PROOF -----
+G8Q9mW1IEuEWa0x1XmnJPiu_2C--bx5M_8Le4Bw1QY2JfnyNxoOk5CjU4rOxf1XjdHivHiCRNT1J69Yyq5s5AA
+----- END CREV PROOF -----
+
