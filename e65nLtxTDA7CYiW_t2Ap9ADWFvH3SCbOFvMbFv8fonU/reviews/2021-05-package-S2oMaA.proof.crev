@@ -68,3 +68,26 @@ comment: |-
 WQAbGOq4-gPUa-sP5H7bKCoVNIuzuuB7YAUma3rtzX9PEhMmnlzI-ILb7igMDcAOWmjqSo5nJeNuyUwHzyXRDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-05-05T16:58:14.846947940+02:00"
+from:
+  id-type: crev
+  id: e65nLtxTDA7CYiW_t2Ap9ADWFvH3SCbOFvMbFv8fonU
+  url: "https://github.com/avl/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: fuchsia-zircon-sys
+  version: 0.3.3
+  digest: 6p2dE7bYHWoELI4uUIqxYFmlQ_im7iUBOwL21G22-cY
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Crate is just simply bindings to some system library. Actual contents seem to be exactly this. Nothing suspicious.
+----- SIGN CREV PROOF -----
+xGcwID2wftOXpXcPC1IzqCy0mMGJgYmS4EMCy3G3D4HuF-HxQ3nbpWyeiobapCy-9C1MSlh6GipcKpEWjk9SAA
+----- END CREV PROOF -----
+
