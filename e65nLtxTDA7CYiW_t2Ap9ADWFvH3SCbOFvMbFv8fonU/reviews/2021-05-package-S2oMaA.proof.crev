@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-05-05T16:22:58.957480823+02:00"
+from:
+  id-type: crev
+  id: e65nLtxTDA7CYiW_t2Ap9ADWFvH3SCbOFvMbFv8fonU
+  url: "https://github.com/avl/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: flexi_logger
+  version: 0.15.11
+  revision: 065e2ac007ad91d528cae7823b089ea0f295bea6
+  digest: NH7bW2DYo7PFBOv1ss4Df6SVJZmQzcaHZ12Ygl3Xpwg
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Review as part of evaluation for use in product.
+----- SIGN CREV PROOF -----
+FFLuZytpvpK3dJ4P84WFMcWGyM4TXA0JVvKUFg3W_N49ECyUinmAl6t71D27mJSZ0C5DTx3I6eczyHXiEBotBA
+----- END CREV PROOF -----
+
