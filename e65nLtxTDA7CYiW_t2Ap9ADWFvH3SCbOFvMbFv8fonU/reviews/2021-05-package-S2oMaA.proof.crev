@@ -22,3 +22,26 @@ comment: |-
 FFLuZytpvpK3dJ4P84WFMcWGyM4TXA0JVvKUFg3W_N49ECyUinmAl6t71D27mJSZ0C5DTx3I6eczyHXiEBotBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-05-05T16:48:08.910857622+02:00"
+from:
+  id-type: crev
+  id: e65nLtxTDA7CYiW_t2Ap9ADWFvH3SCbOFvMbFv8fonU
+  url: "https://github.com/avl/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: numtoa
+  version: 0.1.0
+  digest: 6QtGjCmCQNQdtT4P-zatPYJ96wJrfcBZqAiVornZnGU
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: |-
+  Review for possible inclusion in product. Looked at use of unsafe, and looked out for malware. Found nothing suspicious.
+----- SIGN CREV PROOF -----
+ngHzXjA_bxRV0Juk7IZJyar0F_2vYWeTVyH74MGKYCyod4mYUEr8MtiK9Bvn4WLqsL3IeStDtZJTF8Y-_Bv6Bg
+----- END CREV PROOF -----
+
